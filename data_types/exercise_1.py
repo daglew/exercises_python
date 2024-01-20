@@ -9,4 +9,3 @@ Oczekiwany wynik:
 # x = 5
 x = "five"
 print(type(x))
-yuyuuh
